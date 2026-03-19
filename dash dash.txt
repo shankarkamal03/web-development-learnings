@@ -1,1 +1,2 @@
 all the things works good
+now i understand how to push and pull on github and from github
